@@ -1,0 +1,25 @@
+/* .panel {
+  display: flex;
+  overflow: hidden;
+}
+.panels {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around; 
+  align-items: center;
+  flex: 1;
+  min-height: 102vh;
+  min-width: 33vw;
+  text-align: center;
+  background-position: center;
+  color: black;
+  font-size: 2vw;
+  border: 2px solid red; 
+   background-color: blue;
+  cursor: pointer;
+  transition: font-size 0.7s cubic-bezier(0.61, -0.19, 0.7, -0.11),
+    flex 0.7s cubic-bezier(0.61, -0.19, 0.7, -0.11);
+} */
+body {
+  min-height: 100vh;
+}
